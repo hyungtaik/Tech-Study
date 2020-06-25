@@ -8,7 +8,7 @@
 
 ##### commit rule : 날짜 | [Tech명] Content / CRUD
 
- ex) 2020-06-25|[Java] / 정의 및 특징 / 추가 
+ ex) 2020-06-25|[Java] Java 특징 / 추가 
 
 ---
 
@@ -18,7 +18,7 @@
 
 #### 📒 Java
 
-* [[Java] 정의 및 특징](http://github.com "깃허브")
+* [[Java] Java 특징]([https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20Java%20%ED%8A%B9%EC%A7%95.md](https://github.com/hyungtaik/Tech-Study/blob/master/Java/[Java] Java 특징.md))
 
 #### 📕 JSP
 
