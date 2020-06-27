@@ -19,6 +19,8 @@
 #### 📒 Java
 
 * [[Java] Java 특징](https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20Java%20%ED%8A%B9%EC%A7%95.md)
+* [[Java] 객체지향 SW 흐름]((https://github.com/hyungtaik/Tech-Study/blob/master/Java/[Java] Java 특징.md))
+* [[Java] Java Virtual Machine]((https://github.com/hyungtaik/Tech-Study/blob/master/Java/[Java] Java Virtual Machine.md))
 
 #### 📕 JSP
 
