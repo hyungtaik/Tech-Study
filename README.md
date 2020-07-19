@@ -26,7 +26,7 @@
 
 #### 📗 Java Spring
 
-- [[Spring] Spring Security]([https://github.com/hyungtaik/Tech-Study/blob/master/Java%20Spring/%5BSpring%5D%20Spring%20Security.md](https://github.com/hyungtaik/Tech-Study/blob/master/Java Spring/[Spring] Spring Security.md))
+- [[Spring] Spring Security](https://github.com/hyungtaik/Tech-Study/blob/master/Java%20Spring/%5BSpring%5D%20Spring%20Security.md)
 
 #### 📘 MySQL
 
