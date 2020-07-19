@@ -51,7 +51,7 @@
 >
 > #### 1) 인증관련 구조
 >
-> ![image-20200719182240931](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200719182240931.png)
+> ![capture1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkSN2h%2FbtquDLF3geH%2Fumf8frkg8cc9pRDq9TgUz1%2Fimg.png)
 >
 > > **[Form 기반 로그인에 대한 Flow]**
 > >
@@ -61,11 +61,11 @@
 > > 4. 실제 인증할 AuthenticationProvider에게 Authentication객체(Token)을 다시 전달한다.
 > > 5. DB에서 사용자 인증 정보를 가져올 UserDetailsService 객체에게 사용자의 아이디를 넘겨주고 DB에서 인증에 사용할 사용자 정보를 DuserDetails라는 객체로 전달받는다.
 > > 6. AuthenticationProvider는 UserDetails 객체를 전달받은 이후 실제 사용자의 입력정보와 UserDetails 객체를 가지고 인증을 시도한다.
-> > 7. 8. 9. 10. 인증이 완료되면 사용자 정보를 가진 Authentication 객체를 SecurityContextHolder에 담은 이후 AuthenticationSuccessHandle를 실행한다.  실패 시 AuthenticationFailuerHandler를 실행한다.
+> > 7. 인증이 완료되면 사용자 정보를 가진 Authentication 객체를 SecurityContextHolder에 담은 이후 AuthenticationSuccessHandle를 실행한다.  실패 시 AuthenticationFailuerHandler를 실행한다. (7,8,9,10 번 해당)
 >
 > #### 2) Security의 Filter
 >
-> ![image-20200719183646426](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200719183646426.png)
+> ![image-20200719183646426](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fq9x6Q%2FbtquDWtOWaA%2FSKHXuyh5eneH5Jn29HWUk0%2Fimg.png)
 >
 > > - SecurityContextPersistenceFilter : SecurityContextRepository에서 SecurityContext를 가져오거나 저장하는 역할을 한다.
 > >
