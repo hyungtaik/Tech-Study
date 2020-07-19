@@ -4,11 +4,11 @@
 
 |  🗓 Since   | 📝 Writer | 📅 Last update |
 | :--------: | :------: | :-----------: |
-| 2020-06-25 |   TAEK   |  2020-06-25   |
+| 2020-06-25 |   TAEK   |  2020-07-20   |
 
-##### commit rule : 날짜 | [Tech명] Content / CRUD
+##### commit rule : 날짜 | [Tech명] Content |CRUD
 
- ex) 2020-06-25|[Java] Java 특징 / 추가 
+ ex) 2020-06-25|[Java] Java 특징 |추가 
 
 ---
 
@@ -25,6 +25,8 @@
 #### 📕 JSP
 
 #### 📗 Java Spring
+
+- [[Spring] Spring Security]([https://github.com/hyungtaik/Tech-Study/blob/master/Java%20Spring/%5BSpring%5D%20Spring%20Security.md](https://github.com/hyungtaik/Tech-Study/blob/master/Java Spring/[Spring] Spring Security.md))
 
 #### 📘 MySQL
 
