@@ -4,7 +4,7 @@
 
 |  🗓 Since   | 📝 Writer | 📅 Last update |
 | :--------: | :------: | :-----------: |
-| 2020-06-25 |   TAEK   |  2020-07-20   |
+| 2020-06-25 |   TAEK   |  2020-08-25   |
 
 ##### commit rule : 날짜 | [Tech명] Content |CRUD
 
@@ -35,6 +35,10 @@
 #### 📔 Git
 
 #### 📓 Algorithm
+
+#### 📒 BigData
+
+- [[BigData] Python 기초](BigData/Python_Study.md)
 
 
 
