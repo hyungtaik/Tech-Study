@@ -21,6 +21,7 @@
 * [[Java] Java 특징](https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20Java%20%ED%8A%B9%EC%A7%95.md)
 * [[Java] 객체지향 SW 흐름](https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20SW%20%ED%9D%90%EB%A6%84.md)
 * [[Java] Java Virtual Machine](https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20Java%20Virtual%20Machine.md)
+* [[Java] 가비지 컬렉터(GC)](Java/[Java] 가비지 컬렉터(GC).md)
 
 #### 📕 JSP
 
