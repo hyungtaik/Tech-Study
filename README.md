@@ -37,7 +37,7 @@
 
 #### 📓 Algorithm
 
-- [[Algorithm] 동적 계획법(DP)](Algorithm/[Algorithm] 동적 계획법(DP))
+- [[Algorithm] 동적 계획법(DP)](https://github.com/hyungtaik/Tech-Study/blob/master/Algorithm/%5BAlgorithm%5D%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(DP).md)
 
 #### 📒 BigData
 
