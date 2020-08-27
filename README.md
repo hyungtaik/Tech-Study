@@ -4,7 +4,7 @@
 
 |  🗓 Since   | 📝 Writer | 📅 Last update |
 | :--------: | :------: | :-----------: |
-| 2020-06-25 |   TAEK   |  2020-07-20   |
+| 2020-06-25 |   TAEK   |  2020-08-25   |
 
 ##### commit rule : 날짜 | [Tech명] Content |CRUD
 
@@ -21,6 +21,7 @@
 * [[Java] Java 특징](https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20Java%20%ED%8A%B9%EC%A7%95.md)
 * [[Java] 객체지향 SW 흐름](https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20SW%20%ED%9D%90%EB%A6%84.md)
 * [[Java] Java Virtual Machine](https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20Java%20Virtual%20Machine.md)
+* [[Java] 가비지 컬렉터(GC)](https://github.com/hyungtaik/Tech-Study/blob/master/Java/%5BJava%5D%20%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%ED%84%B0(GC).md)
 
 #### 📕 JSP
 
@@ -35,6 +36,10 @@
 #### 📔 Git
 
 #### 📓 Algorithm
+
+#### 📒 BigData
+
+- [[BigData] Python 기초](BigData/Python_Study.md)
 
 
 
