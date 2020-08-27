@@ -37,6 +37,8 @@
 
 #### 📓 Algorithm
 
+- [[Algorithm] 동적 계획법(DP)](Algorithm/[Algorithm] 동적 계획법(DP))
+
 #### 📒 BigData
 
 - [[BigData] Python 기초](BigData/Python_Study.md)
