@@ -38,7 +38,7 @@
 #### 📓 Algorithm
 
 - [[Algorithm] 동적 계획법(DP)](https://github.com/hyungtaik/Tech-Study/blob/master/Algorithm/%5BAlgorithm%5D%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(DP).md)
-- [[Algorithm] 너비 우선 탐색(BFS)]([https://github.com/hyungtaik/Tech-Study/blob/master/Algorithm/%5BAlgorithm%5D%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89(BFS).md](https://github.com/hyungtaik/Tech-Study/blob/master/Algorithm/[Algorithm] 너비 우선 탐색(BFS).md)
+- [[Algorithm] 너비 우선 탐색(BFS)](https://github.com/hyungtaik/Tech-Study/blob/master/Algorithm/%5BAlgorithm%5D%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89(BFS).md)
 
 #### 📒 BigData
 
